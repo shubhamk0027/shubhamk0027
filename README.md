@@ -1,6 +1,6 @@
 ### Hi! I am Shubham 👋
 
-- 🔭 I’m currently working as a Software Developer at Databricks India Pvt Ltd
+- 🔭 I’m currently working as a Software Developer at Databricks India Pvt. Ltd.
 - 🌱 I'm a problem solver
 - ⚡ I'm enthusiastic about new technologies
 - 😄 I love watching animes
