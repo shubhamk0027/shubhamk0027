@@ -1,11 +1,11 @@
 ### Hi! I am Shubham
 
 - 🔭 I’m currently working as a Software Engineer at Databricks India Pvt. Ltd.
-- Databricks GitHub: [shubhamk-db](https://github.com/shubhamk-db)
-- 🌱 I'm a problem solver
-- ⚡ I'm enthusiastic about new technologies
-- 😄 I love watching anime
 - 🌐 Website: [shubhamk0027.github.io](https://shubhamk0027.github.io/)
+- 🌱 I'm a problem solver.
+- ⚡ I'm enthusiastic about new technologies.
+- 😄 I love watching anime.
+<!-- - Databricks GitHub: [shubhamk-db](https://github.com/shubhamk-db) -->
 
 #### Connect with me
 
