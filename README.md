@@ -27,12 +27,10 @@
 #### My Competitive Profile
 
 [![CodeChef](https://cp-logo.vercel.app/codechef/shubham_279)](https://www.codechef.com/users/shubham_279)
-[![Codeforces](https://img.shields.io/badge/Codeforces-_blast-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_blast)
+[![Codeforces](https://cp-logo.vercel.app/codeforces/_blast)](https://codeforces.com/profile/_blast)
 
 
 #### Language and Tools
-
-<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamk0027&layout=compact" height="20%">
 
 <code><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></code>
